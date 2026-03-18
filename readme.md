@@ -144,7 +144,7 @@ If you find FPPool useful in your research, please cite:
 @article{cui2026fppool,
   title={Bridging molecular fingerprints and graph neural networks through knowledge-guided pooling},
   author={Cui, Chao and Feng, ShiHang and Song, ChenXiao and Yu, ShunTao and Lu, SongLin and Chen, YuZong and Shen, WanXiang},
-  journal={Nature Computational Science},
+  journal={XXXX},
   year={2026}
 }
 ```
